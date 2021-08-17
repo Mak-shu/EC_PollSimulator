@@ -1,0 +1,33 @@
+main {
+  text-align: center;
+  list-style: none;
+}
+
+input[type="radio" i] {
+  position: absolute;
+  left: 850px;
+}
+
+#la {
+  margin-left: 700px;
+}
+
+#report {
+  margin-top: 200px;
+  text-align: center;
+}
+
+#deco {
+  text-decoration: none;
+}
+#col {
+  background-color: lightgrey;
+  font-size: 20px;
+}
+
+#report_col {
+  margin-top: 200px;
+  text-align: center;
+  background-color: lightgrey;
+  font-size: 20px;
+}
